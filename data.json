@@ -1,6 +1,6 @@
 {
 	"origin": ["#posts# "],
-	"img" : "{img https://localhost:80/forzly/?t=",
+	"img" : "{img https://forzly.000webhostapp.com/?t=",
 	"posts": [
 		"#img##1#}",
 		"#img##2#}",
